@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: lovelo, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #5E71E1;
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #A2E9FF;
+    color: skyblue;
     text-align: center;
     padding: 1em 0;
 }
@@ -21,7 +21,15 @@ header {
 }
 
 #comprar {
-    text-align: center;
+    text-align: center; Ofrecemos una amplia gama de 
+
+pastillas y químicos para 
+
+mantener tu pileta limpia, 
+
+cristalina y saludable durante 
+
+todo el verano.
 }
 
 button {
