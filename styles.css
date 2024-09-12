@@ -14,7 +14,7 @@ header {
     background-image: url('b0e8332babad650b08d53575247508b3.jpg');
     background-size: cover; /* Hace que la imagen cubra todo el espacio */
     background-position: center; /* Centra la imagen */
-    height: 300px; /* Cambia este valor para ajustar la altura */
+    height: 400px; /* Cambia este valor para ajustar la altura */
     display: flex;
     justify-content: center; /* Centra el título horizontalmente */
     align-items: center; /* Centra el título verticalmente */
