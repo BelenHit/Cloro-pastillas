@@ -20,6 +20,15 @@ header {
     align-items: center; /* Centra el título verticalmente */
     color: white; /* Cambia el color del texto si es necesario */
 }
+header {
+    background-image: url('01163cbdf8a136be234b18acd5a4c88c.jpg');
+    background-size: cover; /* Hace que la imagen cubra todo el espacio */
+    background-position: center; /* Centra la imagen */
+    height: 300px; /* Cambia este valor para ajustar la altura */
+    display: flex;
+    justify-content: center; /* Centra el título horizontalmente */
+    align-items: center; /* Centra el título verticalmente */
+    color: white; /* Cambia el color del texto si es necesario */
 
 #descripcion, #comprar {
     margin: 20px;
