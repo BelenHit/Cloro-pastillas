@@ -1,13 +1,13 @@
 body {
     font-family: lovelo, sans-serif;
-    margin: 1;
-    padding: 1;
+    margin: 0;
+    padding: 0;
     background-color: #5E71E1;
 }
 
 header {
     background-color: #A2E9FF;
-    color: skyblue;
+    color: white;
     text-align: center;
     padding: 1em 0;
 }
