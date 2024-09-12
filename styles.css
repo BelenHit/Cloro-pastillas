@@ -28,19 +28,19 @@ header {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-#abou us, #Nuestras pastillas {
+#abou us, #Nuestras-pastillas {
     margin: 0px;
     padding: 10px 20px 5px 15px; /* Arriba, derecha, abajo, izquierda */
 }
 
-#about-us {
+#about-us, #Nuestras-pastillas {
   background-color: #f9f9f9; /* Fondo claro */
   padding: 40px; /* Espacio interior para darle aire */
   text-align: center; /* Centra el texto */
   margin-top: 20px; /* Espacio arriba de la sección */
 }
 
-#about-us h2 {
+#about-us, #Nuestras-pastillas h2 {
   font-size: 28px; /* Tamaño del título */
   color: #030412; /* Color del título */
 }
