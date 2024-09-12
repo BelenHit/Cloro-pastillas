@@ -22,9 +22,9 @@ header {
 }
 #sobre nosotros {
     margin: 0px;
-    padding: 10px 20px 5px 15px
-    
+    padding: 10px 20px 5px 15px; /* Arriba, derecha, abajo, izquierda */
 }
+
 #comprar {
     text-align: center;
 }
