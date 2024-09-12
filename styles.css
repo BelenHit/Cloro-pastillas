@@ -11,6 +11,14 @@ header {
     color: black;
     text-align: center;
     padding: 1em 0;
+    background-image: url('images/tu-imagen.jpg');
+    background-size: cover; /* Hace que la imagen cubra todo el espacio */
+    background-position: center; /* Centra la imagen */
+    height: 300px; /* Cambia este valor para ajustar la altura */
+    display: flex;
+    justify-content: center; /* Centra el título horizontalmente */
+    align-items: center; /* Centra el título verticalmente */
+    color: white; /* Cambia el color del texto si es necesario */
 }
 
 #descripcion, #comprar {
